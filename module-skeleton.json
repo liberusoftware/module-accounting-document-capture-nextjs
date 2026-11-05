@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-document-capture-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-document-capture",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-document-capture-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/document-capture.md",
+  "presentationPlan": "projects/accounting/nextjs/document-capture.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
